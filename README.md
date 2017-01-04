@@ -1,7 +1,7 @@
 # electron-ionic-ipc
 A starter application combining the Electron and Ionic framework
 
-## Initialzing the application
+## Initializing the application
 
 1. Clone the repository
 2. ```npm install```
